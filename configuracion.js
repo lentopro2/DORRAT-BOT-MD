@@ -78,19 +78,19 @@ global.APIKeys = { // APIKey Here
 //  en = English       //  pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es //Idioma de †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤, Ejemplo: es | en | pt ....
+global.lenguajeGB = es //Idioma de 𝗣𝗿𝗼𝗳𝗲𝗰𝗶𝗼𝗻𝗮𝗹𝟵𝟵, Ejemplo: es | en | pt ....
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = '𝗣𝗿𝗼𝗳𝗲𝗰𝗶𝗼𝗻𝗮𝗹𝟵𝟵'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = '1.3.0'
 global.version = vs
 //------------- Sticker WM -----------
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.packname = 'BOT'
+global.author = '𝗣𝗿𝗼𝗳𝗲𝗰𝗶𝗼𝗻𝗮𝗹𝟵𝟵'
+global.wm = '𝗣𝗿𝗼𝗳𝗲𝗰𝗶𝗼𝗻𝗮𝗹𝟵𝟵 | AUTOMATIC BOT'
+global.igfg = '𝗣𝗿𝗼𝗳𝗲𝗰𝗶𝗼𝗻𝗮𝗹𝟵𝟵'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
@@ -104,7 +104,7 @@ global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻𝙻 ⚠�
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = 'AUTOMATIC-BOT-MD'
 global.DORRA = dorre
 
 /* Imagenes___________________ */
